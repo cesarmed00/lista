@@ -377,3 +377,9 @@ http://bazarhd.online:80/307210113622/307210113622/81213?checkedby:iptvcat.com
 http://supersonictv.live:25461/903310/034806/22900?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO ZONE HD
 http://tvmedia2.com:8080/Hunter2/Hunter2/164283.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MIAMI TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined", FREE2VIEW
+https://github.com/geonsey/Free2ViewTV/raw/master/Free2ViewTV-2020-Remote.m3u
