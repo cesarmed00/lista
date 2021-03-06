@@ -1,43 +1,7 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 ALF
-http://raostvip.com:8080/semi16/1609.sem/115511?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Cow & Chicken
-http://raostvip.com:8080/semi16/1609.sem/115515?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 JAG
-http://raostvip.com:8080/semi16/1609.sem/115518?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 IndiePlex (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63659?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Modern Family
-http://raostvip.com:8080/semi16/1609.sem/115521?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 MovieMax (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63657?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Mr. Bean
-http://raostvip.com:8080/semi16/1609.sem/115522?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Rockos Modern Life
-http://raostvip.com:8080/semi16/1609.sem/115525?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Rugrats
-http://raostvip.com:8080/semi16/1609.sem/115526?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Starz (M)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63634?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Speed Racer
-http://raostvip.com:8080/semi16/1609.sem/115529?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 The Fresh Prince of Bel-Air
-http://raostvip.com:8080/semi16/1609.sem/115535?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 The Looney Tunes Show
-http://raostvip.com:8080/semi16/1609.sem/115538?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 STAR MAX HD
-http://raostvip.com:8080/semi16/1609.sem/115506?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 USA
-http://raostvip.com:8080/semi16/1609.sem/115507?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",90S
-http://raostvip.com:8080/semi16/1609.sem/115549?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Undefined",A&E,US | A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC HD
-http://raostvip.com:8080/semi16/1609.sem/115594?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ACTION Max FHD
-http://raostvip.com:8080/semi16/1609.sem/115651?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",AD Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ADN 40
