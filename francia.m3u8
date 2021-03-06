@@ -1,0 +1,40 @@
+#EXTM3U
+#PLAYLIST:fRANCIA
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"FRANCE 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"BFM
+https://bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"TV5MONDE
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"CPAC
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"RT
+https://rt-france.secure.footprint.net/1107.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"ALPE HUEZ
+https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"ALSAE
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"BIP
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"D5
+https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"DBM
+https://edge8.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"MY COMEDY
+https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"TVR
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"TZIK
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined"VIA MOSELLE
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
