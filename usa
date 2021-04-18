@@ -383,20 +383,10 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FREE2VIEW
 https://github.com/geonsey/Free2ViewTV/raw/master/Free2ViewTV-2020-Remote.m3u
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",uk1
-https://iptvm3ulist.com/m3u/uk01_iptvm3ulist_com_060321.m3u
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",uk2
-https://iptvm3ulist.com/m3u/uk02_iptvm3ulist_com_060321.m3u
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",uk3
-https://iptvm3ulist.com/m3u/uk03_iptvm3ulist_com_060321.m3u
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",uk4
-https://iptvm3ulist.com/m3u/uk04_iptvm3ulist_com_060321.m3u
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",uk5
-https://iptvm3ulist.com/m3u/uk05_iptvm3ulist_com_060321.m3u
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",uk6
-https://iptvm3ulist.com/m3u/uk06_iptvm3ulist_com_060321.m3u
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",uk7
-https://iptvm3ulist.com/m3u/uk07_iptvm3ulist_com_060321.m3u
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",uk8
-https://iptvm3ulist.com/m3u/uk08_iptvm3ulist_com_060321.m3u
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",uk9
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Undefined",TUDN
+http://latinoamericatv.vip:3334/Kaka/Kaka/359?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",TUDN
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/58695?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",TUDN DEPORTES USA HD
+http://miarea.vip:8080/nena/nena/33131?checkedby:iptvcat.com
